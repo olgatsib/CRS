@@ -1,0 +1,6 @@
+LockManager/
+LockManager*
+test*
+*.class
+*.jar
+*.policy
